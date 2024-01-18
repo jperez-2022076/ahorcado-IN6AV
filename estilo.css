@@ -1,13 +1,26 @@
 h1 {
-
+    
+  font-weight: normal;
+  font-size: 40px;
+  font-family: Arial;
+  text-transform: uppercase;
+}
+h3 {
+    color: #443963;
+    font-weight: normal;
+    font-size: 30px;
+    font-family: Arial;
+    text-transform: lowercase;
 }
 body {
     background-color: #FFF5A5;
-    
-
 }
 button {
-    border: solid 2px #000;
+    border-radius: 25%;
     margin: 3px ;
     
+}
+input {
+    width: 250px;
+    height: 15px;
 }

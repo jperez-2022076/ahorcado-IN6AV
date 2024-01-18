@@ -12,7 +12,6 @@
             boton.textContent = letra;
             boton.value = letra;
             boton.id = "botton" + letra;
-           // boton.addEventListener("click",boton);
             divelementos.appendChild(boton);
           
         };
